@@ -7,7 +7,7 @@ This repository contains a Power BI dashboard project built on an *Online Sales*
 
 ## 📁 Files Included
 
-- Task8.pdf – The Power BI dashboard pdf.
+- Task8.pdf – The Power BI dashboard pdf file.
 - Online Sales Data.csv – The dataset used to create the dashboard.
 
 ---
